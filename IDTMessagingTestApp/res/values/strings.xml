@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IDTMessagingTestApp</string>
+    <string name="url_inputfield_hint">Image URL</string>
+    <string name="download">Download</string>
+    <string name="downloading">Downloading&#8230;</string>
+    <string name="image_descr">Downloaded image</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="permission_ext_storage_rationale_text">You need to allow access to External Storage.</string>
+    <string name="ext_storage_folder_name">Akishin_IDTMessagingTest</string>
+    <string name="error_loading_image">Unable to load the image.\nPlease check the URL.</string>
+
+</resources>
